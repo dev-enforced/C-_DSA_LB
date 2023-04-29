@@ -1,3 +1,8 @@
+/*Testcase 1:
+Input: n = 234
+Output: 15 (24 - 9)
+*/
+
 class Solution {
 public:
     int subtractProductAndSum(int n) {

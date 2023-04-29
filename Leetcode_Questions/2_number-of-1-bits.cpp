@@ -1,3 +1,13 @@
+/*Testcase 1:
+Input: n = 00000000000000000000000000001011
+Output: 3
+
+Testcase 2:
+Input: n = 11111111111111111111111111111101
+Output: 31
+
+*/
+
 class Solution {
 public:
     int hammingWeight(uint32_t n) {
