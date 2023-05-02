@@ -14,3 +14,5 @@
     - Anything apart from 0 means something wrong has happened
 
 - Use of `continue` in case of `switch` is not valid. But if you have a for loop and within that a switch is used for the iterator then we can make use of continue. Here is an explaination of [why](https://www.quora.com/Why-can-we-not-use-continue-statement-in-a-switch-case) and a live demo with commented code in it [file](./5_why_continue_not_with_switch.cpp)
+
+- [Continue with switch in loops](https://stackoverflow.com/questions/2146763/using-continue-in-a-switch-statement) 
